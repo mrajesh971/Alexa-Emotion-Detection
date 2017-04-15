@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "AngIntent"
+    },
+    {
+      "intent": "DemoIntent"
+    },
+    {
+      "intent": "SaxIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.ResumeIntent"
+    },
+    {
+      "intent": "TiredIntent"
+    }
+  ]
+}
